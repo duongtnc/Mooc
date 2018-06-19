@@ -104,6 +104,8 @@ Rectangle {
         }
     }
     // new Rectangle
-    Rectangle {}
+    Rectangle {
+        color: "green"
+    }
 
 }
