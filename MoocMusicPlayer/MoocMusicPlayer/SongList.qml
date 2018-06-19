@@ -103,5 +103,7 @@ Rectangle {
 
         }
     }
+    // new Rectangle
+    Rectangle {}
 
 }
